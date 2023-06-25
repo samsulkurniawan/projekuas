@@ -3,7 +3,7 @@
     <!--  style="background-color : white" -->
     <div class="row justify-content-between">
       <div class="col-md-6">
-        <h2>BTis</h2>
+        <h2>Alamat</h2>
         <p><?= $kontak['alamat']; ?></p>
       </div>
       <div class="col-md-6">

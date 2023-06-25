@@ -81,8 +81,8 @@
           
               <div class="d-flex justify-content-between mb-3">
                 <p>Total Bayar</p>
-                <p>Rp. <?= rupiah($subtotal - $diskon); ?> ,-</p>
-                <input type="hidden" name="total_bayar" value="<?= $subtotal - $diskon; ?>">
+                <p>Rp. <?= rupiah($subtotal); ?> ,-</p>
+                <input type="hidden" name="total_bayar" value="<?= $subtotal; ?>">
               </div>
 
               <button type="submit" class="btn btn-dark-mediun float-right">Bayar</button>
