@@ -21,6 +21,7 @@
   <!-- icon -->
   <link rel="shortcut icon" href="<?= base_url('assets/'); ?>img/BTis.png" type="image/x-icon">
   <title><?= $judul; ?></title>
-</head>
+</head><hr>
+
 
 <body>
