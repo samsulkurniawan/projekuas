@@ -32,7 +32,7 @@
 </header>
 
 
-<section class="bg-white">
+<section class="bg-grey">
   <div class="container">
     <h1>Produk Unggulan | Repost by <a href='https://happiness.catalogue.com/' title='happiness.catalogue.com' target='_blank'>happiness.com</a>
 		</h1>
@@ -68,7 +68,7 @@
         </div>
       <?php endforeach; ?>
     </div>
-  </div>
+  </div><hr>
 </section>
 
 <div class="jumbotron-fluid hero">
@@ -144,6 +144,6 @@
         </div>
       <?php endforeach; ?>
 
-    </div>
+    </div><hr>
   </div>
 </section>
